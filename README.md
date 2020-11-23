@@ -7,6 +7,6 @@
 
 ## How to setup:
 ```bash
-source setup.sh
-activate
+$ source setup.sh
+$ activate
 ```
